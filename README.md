@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👩‍💻 Welcome to my GitHub!
 
-<!--
-**rodrigu333z/rodrigu333z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Perla! I'm a Computer Science student who loves all things tech 💻 and enjoys helping people use technology in their everyday lives. Whether it's troubleshooting issues or building solutions, I'm always up for a challenge!
 
-Here are some ideas to get you started:
+## 💡 About Me
+🌸 Passionate about technology & problem-solving<br>
+🌸 Skilled in SQL, Python, Java, JavaScript, HTML<br>
+🌸 Experienced with VS Code, MySQL, PhpMyAdmin<br>
+🌸 Fluent in English & Spanish 🇺🇸 🇲🇽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⋉ Fun Facts
+🏋️‍♀️ Fitness enthusiast!<br>
+🛫 Travel dreamer!<br>
+🎬 Enjoy watching anime!<br>
+
+## 📫 Connect with Me
+🌐 [LinkedIn](https://www.linkedin.com/in/perla-rodriguez-08892126b)
+
+
