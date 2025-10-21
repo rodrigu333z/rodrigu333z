@@ -1,9 +1,8 @@
 ## 👩‍💻 Welcome to my GitHub!
 
-Hi, I'm Perla! I'm a Computer Science graduate who loves all things tech 💻 and enjoys helping people use technology in their everyday lives. Whether it's troubleshooting issues or building solutions, I'm always up for a challenge!
+Hi, I'm Perla!
 
 ## 💡 About Me
-Passionate about technology & problem-solving<br>
 Skilled in SQL, Python, Java, JavaScript, HTML<br>
 Experienced with VS Code, MySQL & PostgreSQL, PhpMyAdmin<br>
 Fluent in English & Spanish 🇺🇸 🇲🇽
